@@ -10,5 +10,5 @@ A simple React-based to-do list app that lets users add, complete, and delete ta
 - React Hooks (`useState`) used for state management
 
 ## How to Run
-npm install
-npm start
+- npm install
+- npm start
